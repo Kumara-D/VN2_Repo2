@@ -122,3 +122,7 @@ else:
         print("Result: FAIL")
         if marks == 0:
             print("--------DOUBLE SUPER----------")
+
+
+
+print(10 + 20)
